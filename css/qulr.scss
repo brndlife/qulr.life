@@ -201,8 +201,20 @@ div.medium-4.columns.footerRight{
   }
 
   .footerCenter{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    //padding-top: 20px;
+    padding-bottom: 5px;
+  }
+  
+  .tile-container{
+    margin-bottom: 15px;
+    .color-tile{
+      height: 70% // THIS IS JANK FIX
+    }
+  }
+  
+  .site-footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
 }

@@ -140,7 +140,15 @@ div.medium-4.columns.footerRight {
     text-align: center; }
 
   .footerCenter {
-    padding-top: 20px;
-    padding-bottom: 20px; } }
+    padding-bottom: 5px; }
+
+  .tile-container {
+    margin-bottom: 15px; }
+    .tile-container .color-tile {
+      height: 70%; }
+
+  .site-footer {
+    padding-top: 5px;
+    padding-bottom: 5px; } }
 /*for tablet friendly styling*/
 /* ************************************** */
