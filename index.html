@@ -16,18 +16,18 @@ layout: default
     {% endfor %}
   </ul>
 -->
+  {% for color in site.colors %}
   <div class="small-6 medium-4 column">
     <div class="tile-container">
       <div class="tile-content">
-        <div class="color-tile">
-          filler
-        </div>
+        <div class="color-tile" style="background-color: {{ color.number }}"></div>
         <div class="color-specs">
-          <span class="color-name">Toasted Grape</span>
-          <span class="color-number">#1234ed</span>
+          <span class="color-name">{{ color.name }}</span>
+          <span class="color-number">{{ color.number }}</span>
         </div>
       </div>
     </div>
   </div>
+  {% endfor %}
 
 </div>
