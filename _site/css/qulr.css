@@ -146,6 +146,10 @@ div.medium-4.columns.footerRight {
     margin-bottom: 15px; }
     .tile-container .color-tile {
       height: 70%; }
+    .tile-container .color-specs .color-name {
+      font-size: 14px; }
+    .tile-container .color-specs .color-number {
+      font-size: 12px; }
 
   .site-footer {
     padding-top: 5px;
