@@ -155,4 +155,9 @@ div.medium-4.columns.footerRight {
     padding-top: 5px;
     padding-bottom: 5px; } }
 /*for tablet friendly styling*/
+@media screen and (max-width: 64em) {
+  .tile-container {
+    margin-bottom: 15px; }
+    .tile-container .color-tile {
+      height: 70%; } }
 /* ************************************** */

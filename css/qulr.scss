@@ -230,5 +230,11 @@ div.medium-4.columns.footerRight{
 /*for tablet friendly styling*/
 @media screen and (max-width: 64em) {
 
+   .tile-container{
+    margin-bottom: 15px;
+    .color-tile{
+      height: 70% // THIS IS JANK FIX
+    }
+  }
 }
 /* ************************************** */
