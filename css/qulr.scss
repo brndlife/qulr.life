@@ -210,6 +210,14 @@ div.medium-4.columns.footerRight{
     .color-tile{
       height: 70% // THIS IS JANK FIX
     }
+    .color-specs{
+      .color-name{
+        font-size: 14px;
+      } 
+      .color-number{
+        font-size: 12px;
+      }
+    }
   }
   
   .site-footer{
