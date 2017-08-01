@@ -7,18 +7,22 @@ $brnd-lime-deep: #6ADB4B;
 $brnd-lime-light: rgba(128,255,85,.5);
 $brnd-grey: #666666;
 
-@import url('https://fonts.googleapis.com/css?family=Zilla+Slab:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900,900i');
 
-$zilla: 'Zilla Slab', serif;
+$lato: 'Lato', sans-serif;
 
 $regular: 400;
-$medium: 500;
-$semi-bold: 600;
 $bold: 700;
+$black: 900;
+$black-italics: 900i;
 
 html, body, h1, h2, h3, h4, h5, h6{
-  font-family: $zilla;
+  font-family: $lato;
   color: $brnd-grey;
+}
+
+html, body{
+  background-color: #FCFCFC;
 }
 
 body{
@@ -67,6 +71,15 @@ body{
 
 .site-title{
   float: none;
+  font-size: 32px;
+  font-weight: $black;
+  font-style: italic;
+  a{
+    color: #D4D4D4;
+  } 
+}
+.site-title:visited{
+  color: #d4d4d4;
 }
 
 .nav-bar{
@@ -82,7 +95,41 @@ body{
   }
 }
 
-
+.tile-container{
+  background-color: white;
+  box-shadow: 0px 0px 6px #CECECE;
+  border-radius: 20px;
+  position: relative;
+  .tile-content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  .color-tile{
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .color-specs{
+    padding: 10px;
+    .color-name{
+      font-size: 20px;
+      font-weight: $bold;
+    }
+    .color-number{
+      font-size: 16px;
+      display: block;
+      margin-top: -5px;
+    }
+  }
+}
+.tile-container:before{
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
 
 // Footer
 footer{

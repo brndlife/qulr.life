@@ -1,7 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Zilla+Slab:400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900,900i");
 html, body, h1, h2, h3, h4, h5, h6 {
-  font-family: "Zilla Slab", serif;
+  font-family: "Lato", sans-serif;
   color: #666666; }
+
+html, body {
+  background-color: #FCFCFC; }
 
 body {
   font-size: 18px; }
@@ -32,7 +35,15 @@ body {
   margin-top: 30px; }
 
 .site-title {
-  float: none; }
+  float: none;
+  font-size: 32px;
+  font-weight: 900;
+  font-style: italic; }
+  .site-title a {
+    color: #D4D4D4; }
+
+.site-title:visited {
+  color: #d4d4d4; }
 
 .nav-bar {
   float: none;
@@ -43,6 +54,36 @@ body {
   .nav-bar .nav-item {
     margin-left: 5px;
     margin-right: 5px; }
+
+.tile-container {
+  background-color: white;
+  box-shadow: 0px 0px 6px #CECECE;
+  border-radius: 20px;
+  position: relative; }
+  .tile-container .tile-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; }
+  .tile-container .color-tile {
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 20px 20px 0px 0px; }
+  .tile-container .color-specs {
+    padding: 10px; }
+    .tile-container .color-specs .color-name {
+      font-size: 20px;
+      font-weight: 700; }
+    .tile-container .color-specs .color-number {
+      font-size: 16px;
+      display: block;
+      margin-top: -5px; }
+
+.tile-container:before {
+  content: "";
+  display: block;
+  padding-top: 100%; }
 
 footer {
   background-color: #f2f2f2;

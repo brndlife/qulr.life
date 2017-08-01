@@ -6,12 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: BRND Life
+title: QULR Life
 description: > # this means to ignore newlines until "baseurl:"
-  Branding Branding Branding
+  Color, Colour, Colors, Colours No matter how you spell it they are beatiful.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://brnd.life" # the base hostname & protocol for your site
+url: "http://qulr.life" # the base hostname & protocol for your site
 
 
 # Build settings
 markdown: kramdown
+
+collections:
+  colors:
+    output: true
+    permalink: /:path
