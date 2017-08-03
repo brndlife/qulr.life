@@ -2,22 +2,20 @@
 layout: default
 ---
 
-<div class="row">
-
   {% assign color_ordered = (site.colors | sort: 'date') %}
   {% assign color_reverse = (site.colors | reverse ) %}
   {% for color in color_reverse %}
   <div class="small-6 medium-4 large-3 column">
     <div class="tile-container">
-      <div class="tile-content">
-        <div class="color-tile" style="background-color: {{ color.number }}"></div>
-        <div class="color-specs">
-          <span class="color-name">{{ color.name }}</span>
-          <span class="color-number">{{ color.number }}</span>
+      <a href="{{ color.url }}">
+        <div class="tile-content">
+          <div class="color-tile" style="background-color: {{ color.number }}"></div>
+          <div class="color-specs">
+            <span class="color-name">{{ color.name }}</span>
+            <span class="color-number">{{ color.number }}</span>
+          </div>
         </div>
-      </div>
+      </a>
     </div>
   </div>
   {% endfor %}
-
-</div>
