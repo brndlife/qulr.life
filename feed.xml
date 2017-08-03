@@ -16,6 +16,7 @@ layout: null
         <title>{{ color.name | xml_escape }}</title>
         <description>{{ color.number | xml_escape }}</description>
         <pubDate>{{ color.date | date_to_rfc822 }}</pubDate>
+        <link>{{ color.url | prepend: site.baseurl | prepend: site.url }}</link>
       </item>
     {% endfor %}
   </channel>
