@@ -4,16 +4,17 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     
   <div class="small-12 medium-8 medium-centered column">
-    <div class="small-12 medium-6 column">
-      <div class="color-container">
-        <div class="color-swatch" style="background-color: {{ page.number }}"></div>
+      <div class="small-12 medium-6 column">
+        <div class="color-container">
+          <div class="color-swatch" style="background-color: {{ page.number }}"></div>
+        </div>
       </div>
-    </div>
-    <div class=" color-data small-12 medium-6 column">
-      <div class="date">{{ page.date | date: "%b %-d, %Y" }}</div>
-      <div class="name">{{ page.name }}</div>
-      <div class="number">{{ page.number }}</div>
-    </div>
+      <div class=" color-data small-12 medium-6 column">
+        <div class="date">{{ page.date | date: "%b %-d, %Y" }}</div>
+        <h1 class="name">{{ page.name }}</h1>
+        <h2 class="number">{{ page.number }}</h2>
+<!--        <h3>See the color in context?</h3>-->
+      </div>
   </div>
 
 </article>
