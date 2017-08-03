@@ -15,7 +15,7 @@ layout: null
       <item>
         <title>{{ color.name | xml_escape }}</title>
         <description>{{ color.number | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ color.date | date_to_rfc822 }}</pubDate>
       </item>
     {% endfor %}
   </channel>
