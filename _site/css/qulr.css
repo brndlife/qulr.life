@@ -68,7 +68,6 @@ body {
     right: 0;
     bottom: 0; }
   .tile-container .color-tile {
-    width: 100%;
     height: 75%;
     border-radius: 20px 20px 0px 0px; }
   .tile-container .color-specs {
@@ -84,11 +83,44 @@ body {
       font-size: 16px;
       display: block;
       margin-top: -5px; }
+  .tile-container a {
+    color: #666666; }
 
-.tile-container:before {
+.tile-container:hover {
+  box-shadow: 0px 0px 10px #a8a8a8;
+  -webkit-transition: box-shadow 0.25s ease;
+  transition: box-shadow 0.25s ease; }
+
+.tile-container:before, .color-container:before {
   content: "";
   display: block;
   padding-top: 100%; }
+
+.color-data .date, .color-data .name, .color-data .number {
+  font-size: 46px; }
+.color-data .date {
+  font-weight: 900;
+  margin-bottom: 30px; }
+.color-data .name {
+  font-weight: 700;
+  line-height: 1.1; }
+.color-data .number {
+  line-height: 1.1;
+  margin-top: 15px; }
+
+.color-container {
+  background-color: white;
+  box-shadow: 0px 0px 6px #CECECE;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 30px; }
+  .color-container .color-swatch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 20px; }
 
 footer {
   background-color: #f2f2f2;
@@ -153,7 +185,14 @@ div.medium-4.columns.footerRight {
 
   .site-footer {
     padding-top: 5px;
-    padding-bottom: 5px; } }
+    padding-bottom: 5px; }
+
+  .color-data .date, .color-data .name, .color-data .number {
+    font-size: 26px; }
+  .color-data .date {
+    margin-bottom: 15px; }
+  .color-data .number {
+    margin-top: 5px; } }
 /*for tablet friendly styling*/
 @media screen and (max-width: 64em) {
   .tile-container {
