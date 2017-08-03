@@ -109,7 +109,6 @@ body{
     bottom: 0;
   }
   .color-tile{
-    width: 100%;
     height: 75%; //THIS IS A JANK WAY TO DO THIS
     border-radius: 20px 20px 0px 0px;
   }
@@ -129,11 +128,54 @@ body{
       margin-top: -5px;
     }
   }
+  a{
+    color:$brnd-grey;
+  }
 }
-.tile-container:before{
+.tile-container:hover{
+  box-shadow: 0px 0px 10px darken(#CECECE,15%);
+  -webkit-transition: box-shadow 0.25s ease;
+  transition: box-shadow 0.25s ease;
+}
+
+.tile-container:before, .color-container:before{
   content: "";
   display: block;
   padding-top: 100%;
+}
+
+.color-data{
+  .date, .name, .number{
+    font-size: 46px;
+  }
+  .date{
+    font-weight: $black;
+    margin-bottom: 30px;
+  }
+  .name{
+    font-weight: $bold;
+    line-height: 1.1;
+  }
+  .number{
+    line-height: 1.1;
+    margin-top: 15px;
+  }
+}
+
+.color-container{
+  background-color: white;
+  box-shadow: 0px 0px 6px #CECECE;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 30px;
+  .color-swatch{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 20px;
+  }
 }
 
 // Footer
@@ -223,6 +265,18 @@ div.medium-4.columns.footerRight{
   .site-footer{
     padding-top: 5px;
     padding-bottom: 5px;
+  }
+  
+  .color-data{
+    .date, .name, .number{
+      font-size: 26px;
+    }
+    .date{
+      margin-bottom: 15px;
+    }
+    .number{
+      margin-top: 5px;
+    }
   }
 
 }
