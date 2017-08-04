@@ -6,14 +6,14 @@
 </description>
     <link>http://localhost:4200/</link>
     <atom:link href="http://localhost:4200/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Aug 2017 23:46:45 -0400</pubDate>
-    <lastBuildDate>Thu, 03 Aug 2017 23:46:45 -0400</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Fri, 04 Aug 2017 15:53:02 -0400</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 15:53:02 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>DIO Black</title>
         <description>#313131</description>
-        <pubDate>Thu, 20 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Thu, 20 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/313131</link>
         <guid isPermaLink="true">http://localhost:4200/313131</guid>
       </item>
@@ -21,7 +21,7 @@
       <item>
         <title>DIO Grey</title>
         <description>#666666</description>
-        <pubDate>Fri, 21 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Fri, 21 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/666666</link>
         <guid isPermaLink="true">http://localhost:4200/666666</guid>
       </item>
@@ -29,7 +29,7 @@
       <item>
         <title>Mandy</title>
         <description>#ea4d5b</description>
-        <pubDate>Sat, 22 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 22 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/ea4d5b</link>
         <guid isPermaLink="true">http://localhost:4200/ea4d5b</guid>
       </item>
@@ -37,7 +37,7 @@
       <item>
         <title>Signature Teal</title>
         <description>#12abc4</description>
-        <pubDate>Sun, 23 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sun, 23 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/12abc4</link>
         <guid isPermaLink="true">http://localhost:4200/12abc4</guid>
       </item>
@@ -45,7 +45,7 @@
       <item>
         <title>Royal Raspberry</title>
         <description>#77013a</description>
-        <pubDate>Mon, 24 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 24 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/77013a</link>
         <guid isPermaLink="true">http://localhost:4200/77013a</guid>
       </item>
@@ -53,7 +53,7 @@
       <item>
         <title>BRND Lime</title>
         <description>#80ff55</description>
-        <pubDate>Tue, 25 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 25 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/80ff55</link>
         <guid isPermaLink="true">http://localhost:4200/80ff55</guid>
       </item>
@@ -61,7 +61,7 @@
       <item>
         <title>Toasted Grape</title>
         <description>#7e249e</description>
-        <pubDate>Wed, 26 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 26 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/7e249e</link>
         <guid isPermaLink="true">http://localhost:4200/7e249e</guid>
       </item>
@@ -69,7 +69,7 @@
       <item>
         <title>Oyster Blue</title>
         <description>#4aabe8</description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Fri, 28 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/4aabe8</link>
         <guid isPermaLink="true">http://localhost:4200/4aabe8</guid>
       </item>
@@ -77,7 +77,7 @@
       <item>
         <title>Foolproof Fushia</title>
         <description>#ec1f64</description>
-        <pubDate>Sat, 29 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 29 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/ec1f64</link>
         <guid isPermaLink="true">http://localhost:4200/ec1f64</guid>
       </item>
@@ -85,7 +85,7 @@
       <item>
         <title>Deep Navy</title>
         <description>#2e2940</description>
-        <pubDate>Sun, 30 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sun, 30 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/2e2940</link>
         <guid isPermaLink="true">http://localhost:4200/2e2940</guid>
       </item>
@@ -93,7 +93,7 @@
       <item>
         <title>Vibrating Jelly</title>
         <description>#7600e5</description>
-        <pubDate>Mon, 31 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 31 Jul 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/7600e5</link>
         <guid isPermaLink="true">http://localhost:4200/7600e5</guid>
       </item>
@@ -101,7 +101,7 @@
       <item>
         <title>Radioactive Seaweed</title>
         <description>#00e59f</description>
-        <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 01 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/00e59f</link>
         <guid isPermaLink="true">http://localhost:4200/00e59f</guid>
       </item>
@@ -109,7 +109,7 @@
       <item>
         <title>Consumer Red</title>
         <description>#eb202f</description>
-        <pubDate>Wed, 02 Aug 2017 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 02 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/eb202f</link>
         <guid isPermaLink="true">http://localhost:4200/eb202f</guid>
       </item>
@@ -117,9 +117,17 @@
       <item>
         <title>Process Pink</title>
         <description>#ea1864</description>
-        <pubDate>Thu, 03 Aug 2017 00:00:00 -0400</pubDate>
+        <pubDate>Thu, 03 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/ea1864</link>
         <guid isPermaLink="true">http://localhost:4200/ea1864</guid>
+      </item>
+    
+      <item>
+        <title>Yolk Yellow</title>
+        <description>#f9e02b</description>
+        <pubDate>Fri, 04 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4200/f9e02b</link>
+        <guid isPermaLink="true">http://localhost:4200/f9e02b</guid>
       </item>
     
   </channel>
