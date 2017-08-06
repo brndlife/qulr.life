@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4200/</link>
     <atom:link href="http://localhost:4200/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Aug 2017 15:53:02 -0400</pubDate>
-    <lastBuildDate>Fri, 04 Aug 2017 15:53:02 -0400</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2017 23:01:33 -0400</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2017 23:01:33 -0400</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -128,6 +128,14 @@
         <pubDate>Fri, 04 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4200/f9e02b</link>
         <guid isPermaLink="true">http://localhost:4200/f9e02b</guid>
+      </item>
+    
+      <item>
+        <title>Green Tea Icecream</title>
+        <description>#a8c900</description>
+        <pubDate>Sat, 05 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4200/a8c900</link>
+        <guid isPermaLink="true">http://localhost:4200/a8c900</guid>
       </item>
     
   </channel>
