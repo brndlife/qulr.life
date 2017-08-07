@@ -4,138 +4,154 @@
     <title>QULR Life</title>
     <description>Color, Colour, Colors, Colours No matter how you spell it they are beautiful.
 </description>
-    <link>http://localhost:4200/</link>
-    <atom:link href="http://localhost:4200/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Aug 2017 23:01:33 -0400</pubDate>
-    <lastBuildDate>Sat, 05 Aug 2017 23:01:33 -0400</lastBuildDate>
+    <link>http://localhost:4300/</link>
+    <atom:link href="http://localhost:4300/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Aug 2017 12:47:44 -0400</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2017 12:47:44 -0400</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>DIO Black</title>
         <description>#313131</description>
         <pubDate>Thu, 20 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/313131</link>
-        <guid isPermaLink="true">http://localhost:4200/313131</guid>
+        <link>http://localhost:4300/313131</link>
+        <guid isPermaLink="true">http://localhost:4300/313131</guid>
       </item>
     
       <item>
         <title>DIO Grey</title>
         <description>#666666</description>
         <pubDate>Fri, 21 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/666666</link>
-        <guid isPermaLink="true">http://localhost:4200/666666</guid>
+        <link>http://localhost:4300/666666</link>
+        <guid isPermaLink="true">http://localhost:4300/666666</guid>
       </item>
     
       <item>
         <title>Mandy</title>
         <description>#ea4d5b</description>
         <pubDate>Sat, 22 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/ea4d5b</link>
-        <guid isPermaLink="true">http://localhost:4200/ea4d5b</guid>
+        <link>http://localhost:4300/ea4d5b</link>
+        <guid isPermaLink="true">http://localhost:4300/ea4d5b</guid>
       </item>
     
       <item>
         <title>Signature Teal</title>
         <description>#12abc4</description>
         <pubDate>Sun, 23 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/12abc4</link>
-        <guid isPermaLink="true">http://localhost:4200/12abc4</guid>
+        <link>http://localhost:4300/12abc4</link>
+        <guid isPermaLink="true">http://localhost:4300/12abc4</guid>
       </item>
     
       <item>
         <title>Royal Raspberry</title>
         <description>#77013a</description>
         <pubDate>Mon, 24 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/77013a</link>
-        <guid isPermaLink="true">http://localhost:4200/77013a</guid>
+        <link>http://localhost:4300/77013a</link>
+        <guid isPermaLink="true">http://localhost:4300/77013a</guid>
       </item>
     
       <item>
         <title>BRND Lime</title>
         <description>#80ff55</description>
         <pubDate>Tue, 25 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/80ff55</link>
-        <guid isPermaLink="true">http://localhost:4200/80ff55</guid>
+        <link>http://localhost:4300/80ff55</link>
+        <guid isPermaLink="true">http://localhost:4300/80ff55</guid>
       </item>
     
       <item>
         <title>Toasted Grape</title>
         <description>#7e249e</description>
         <pubDate>Wed, 26 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/7e249e</link>
-        <guid isPermaLink="true">http://localhost:4200/7e249e</guid>
+        <link>http://localhost:4300/7e249e</link>
+        <guid isPermaLink="true">http://localhost:4300/7e249e</guid>
       </item>
     
       <item>
         <title>Oyster Blue</title>
         <description>#4aabe8</description>
         <pubDate>Fri, 28 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/4aabe8</link>
-        <guid isPermaLink="true">http://localhost:4200/4aabe8</guid>
+        <link>http://localhost:4300/4aabe8</link>
+        <guid isPermaLink="true">http://localhost:4300/4aabe8</guid>
       </item>
     
       <item>
         <title>Foolproof Fushia</title>
         <description>#ec1f64</description>
         <pubDate>Sat, 29 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/ec1f64</link>
-        <guid isPermaLink="true">http://localhost:4200/ec1f64</guid>
+        <link>http://localhost:4300/ec1f64</link>
+        <guid isPermaLink="true">http://localhost:4300/ec1f64</guid>
       </item>
     
       <item>
         <title>Deep Navy</title>
         <description>#2e2940</description>
         <pubDate>Sun, 30 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/2e2940</link>
-        <guid isPermaLink="true">http://localhost:4200/2e2940</guid>
+        <link>http://localhost:4300/2e2940</link>
+        <guid isPermaLink="true">http://localhost:4300/2e2940</guid>
       </item>
     
       <item>
         <title>Vibrating Jelly</title>
         <description>#7600e5</description>
         <pubDate>Mon, 31 Jul 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/7600e5</link>
-        <guid isPermaLink="true">http://localhost:4200/7600e5</guid>
+        <link>http://localhost:4300/7600e5</link>
+        <guid isPermaLink="true">http://localhost:4300/7600e5</guid>
       </item>
     
       <item>
         <title>Radioactive Seaweed</title>
         <description>#00e59f</description>
         <pubDate>Tue, 01 Aug 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/00e59f</link>
-        <guid isPermaLink="true">http://localhost:4200/00e59f</guid>
+        <link>http://localhost:4300/00e59f</link>
+        <guid isPermaLink="true">http://localhost:4300/00e59f</guid>
       </item>
     
       <item>
         <title>Consumer Red</title>
         <description>#eb202f</description>
         <pubDate>Wed, 02 Aug 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/eb202f</link>
-        <guid isPermaLink="true">http://localhost:4200/eb202f</guid>
+        <link>http://localhost:4300/eb202f</link>
+        <guid isPermaLink="true">http://localhost:4300/eb202f</guid>
       </item>
     
       <item>
         <title>Process Pink</title>
         <description>#ea1864</description>
         <pubDate>Thu, 03 Aug 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/ea1864</link>
-        <guid isPermaLink="true">http://localhost:4200/ea1864</guid>
+        <link>http://localhost:4300/ea1864</link>
+        <guid isPermaLink="true">http://localhost:4300/ea1864</guid>
       </item>
     
       <item>
         <title>Yolk Yellow</title>
         <description>#f9e02b</description>
         <pubDate>Fri, 04 Aug 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/f9e02b</link>
-        <guid isPermaLink="true">http://localhost:4200/f9e02b</guid>
+        <link>http://localhost:4300/f9e02b</link>
+        <guid isPermaLink="true">http://localhost:4300/f9e02b</guid>
       </item>
     
       <item>
         <title>Green Tea Icecream</title>
         <description>#a8c900</description>
         <pubDate>Sat, 05 Aug 2017 12:00:00 -0400</pubDate>
-        <link>http://localhost:4200/a8c900</link>
-        <guid isPermaLink="true">http://localhost:4200/a8c900</guid>
+        <link>http://localhost:4300/a8c900</link>
+        <guid isPermaLink="true">http://localhost:4300/a8c900</guid>
+      </item>
+    
+      <item>
+        <title>London Grey</title>
+        <description>#5d6e77</description>
+        <pubDate>Sun, 06 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/5d6e77</link>
+        <guid isPermaLink="true">http://localhost:4300/5d6e77</guid>
+      </item>
+    
+      <item>
+        <title>Mixed Berry Smoothie</title>
+        <description>#ba3d64</description>
+        <pubDate>Mon, 07 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/ba3d64</link>
+        <guid isPermaLink="true">http://localhost:4300/ba3d64</guid>
       </item>
     
   </channel>
