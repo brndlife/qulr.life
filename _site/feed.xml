@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4300/</link>
     <atom:link href="http://localhost:4300/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Aug 2017 21:11:53 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Aug 2017 21:11:53 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Aug 2017 21:41:13 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2017 21:41:13 -0400</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -176,6 +176,38 @@
         <pubDate>Thu, 10 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4300/2b70cb</link>
         <guid isPermaLink="true">http://localhost:4300/2b70cb</guid>
+      </item>
+    
+      <item>
+        <title>Burnt Cinnamon</title>
+        <description>#e08e48</description>
+        <pubDate>Fri, 11 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/e08e48</link>
+        <guid isPermaLink="true">http://localhost:4300/e08e48</guid>
+      </item>
+    
+      <item>
+        <title>Bioluminescent Jelly</title>
+        <description>#705cfa</description>
+        <pubDate>Sat, 12 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/705cfa</link>
+        <guid isPermaLink="true">http://localhost:4300/705cfa</guid>
+      </item>
+    
+      <item>
+        <title>Wholphin Grey</title>
+        <description>#4f4b48</description>
+        <pubDate>Sun, 13 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/4f4b48</link>
+        <guid isPermaLink="true">http://localhost:4300/4f4b48</guid>
+      </item>
+    
+      <item>
+        <title>Carousel Red</title>
+        <description>#8a0114</description>
+        <pubDate>Mon, 14 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/8a0114</link>
+        <guid isPermaLink="true">http://localhost:4300/8a0114</guid>
       </item>
     
   </channel>
