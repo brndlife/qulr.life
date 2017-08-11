@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4300/</link>
     <atom:link href="http://localhost:4300/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Aug 2017 13:44:04 -0400</pubDate>
-    <lastBuildDate>Mon, 07 Aug 2017 13:44:04 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Aug 2017 21:11:53 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2017 21:11:53 -0400</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -152,6 +152,30 @@
         <pubDate>Mon, 07 Aug 2017 12:00:00 -0400</pubDate>
         <link>http://localhost:4300/ba3d64</link>
         <guid isPermaLink="true">http://localhost:4300/ba3d64</guid>
+      </item>
+    
+      <item>
+        <title>Acid Clover</title>
+        <description>#22ff60</description>
+        <pubDate>Tue, 08 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/22ff60</link>
+        <guid isPermaLink="true">http://localhost:4300/22ff60</guid>
+      </item>
+    
+      <item>
+        <title>Lilac Sorbet</title>
+        <description>#e5b3dc</description>
+        <pubDate>Wed, 09 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/e5b3dc</link>
+        <guid isPermaLink="true">http://localhost:4300/e5b3dc</guid>
+      </item>
+    
+      <item>
+        <title>Blueberry Jeans</title>
+        <description>#2b70cb</description>
+        <pubDate>Thu, 10 Aug 2017 12:00:00 -0400</pubDate>
+        <link>http://localhost:4300/2b70cb</link>
+        <guid isPermaLink="true">http://localhost:4300/2b70cb</guid>
       </item>
     
   </channel>
