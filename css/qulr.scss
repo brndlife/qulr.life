@@ -51,6 +51,13 @@ body{
   } 
 }
 
+::selection {
+  background: #f1f1f1; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #f1f1f1; /* Gecko Browsers */
+}
+
 p{
   margin-left: 10px;
   margin-right: 10px;
