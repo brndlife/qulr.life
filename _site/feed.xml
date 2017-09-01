@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2017 00:26:28 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 00:26:28 -0400</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2017 19:20:40 -0400</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2017 19:20:40 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -264,6 +264,86 @@
         <pubDate>Mon, 21 Aug 2017 11:00:00 -0400</pubDate>
         <link>http://localhost:4000/8405d6</link>
         <guid isPermaLink="true">http://localhost:4000/8405d6</guid>
+      </item>
+    
+      <item>
+        <title>Lemon Lime Sweet</title>
+        <description>#7aee2e</description>
+        <pubDate>Tue, 22 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/7aee2e</link>
+        <guid isPermaLink="true">http://localhost:4000/7aee2e</guid>
+      </item>
+    
+      <item>
+        <title>Raspberry Rose</title>
+        <description>#b23c69</description>
+        <pubDate>Wed, 23 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/b23c69</link>
+        <guid isPermaLink="true">http://localhost:4000/b23c69</guid>
+      </item>
+    
+      <item>
+        <title>Candied Greens</title>
+        <description>#1bcf4f</description>
+        <pubDate>Thu, 24 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/1bcf4f</link>
+        <guid isPermaLink="true">http://localhost:4000/1bcf4f</guid>
+      </item>
+    
+      <item>
+        <title>Soapy Hydrangeas</title>
+        <description>#6e9ed3</description>
+        <pubDate>Fri, 25 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/6e9ed3</link>
+        <guid isPermaLink="true">http://localhost:4000/6e9ed3</guid>
+      </item>
+    
+      <item>
+        <title>Crisp Bark</title>
+        <description>#261202</description>
+        <pubDate>Sun, 27 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/261202</link>
+        <guid isPermaLink="true">http://localhost:4000/261202</guid>
+      </item>
+    
+      <item>
+        <title>Smooth Pomegranate</title>
+        <description>#f14e6f</description>
+        <pubDate>Sun, 27 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/f14e6f</link>
+        <guid isPermaLink="true">http://localhost:4000/f14e6f</guid>
+      </item>
+    
+      <item>
+        <title>Cloudy Blues</title>
+        <description>#dee3f6</description>
+        <pubDate>Mon, 28 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/dee3f6</link>
+        <guid isPermaLink="true">http://localhost:4000/dee3f6</guid>
+      </item>
+    
+      <item>
+        <title>Minty Fresh</title>
+        <description>#47b38d</description>
+        <pubDate>Tue, 29 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/47b38d</link>
+        <guid isPermaLink="true">http://localhost:4000/47b38d</guid>
+      </item>
+    
+      <item>
+        <title>Transparent Salmon</title>
+        <description>#fc9f77</description>
+        <pubDate>Wed, 30 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/fc9f77</link>
+        <guid isPermaLink="true">http://localhost:4000/fc9f77</guid>
+      </item>
+    
+      <item>
+        <title>Dusk Overcast</title>
+        <description>#1d5f77</description>
+        <pubDate>Thu, 31 Aug 2017 11:00:00 -0400</pubDate>
+        <link>http://localhost:4000/1d5f77</link>
+        <guid isPermaLink="true">http://localhost:4000/1d5f77</guid>
       </item>
     
   </channel>
