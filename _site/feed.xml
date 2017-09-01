@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Sep 2017 19:20:40 -0400</pubDate>
-    <lastBuildDate>Fri, 01 Sep 2017 19:20:40 -0400</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2017 19:27:54 -0400</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2017 19:27:54 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -267,7 +267,7 @@
       </item>
     
       <item>
-        <title>Lemon Lime Sweet</title>
+        <title>Lemon Lime Twist</title>
         <description>#7aee2e</description>
         <pubDate>Tue, 22 Aug 2017 11:00:00 -0400</pubDate>
         <link>http://localhost:4000/7aee2e</link>
