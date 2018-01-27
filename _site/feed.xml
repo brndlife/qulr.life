@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4300/</link>
     <atom:link href="http://localhost:4300/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jan 2018 14:16:07 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 14:16:07 -0500</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2018 14:20:15 -0500</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2018 14:20:15 -0500</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -368,6 +368,22 @@
         <pubDate>Wed, 10 Jan 2018 10:00:00 -0500</pubDate>
         <link>http://localhost:4300/45c7ef</link>
         <guid isPermaLink="true">http://localhost:4300/45c7ef</guid>
+      </item>
+    
+      <item>
+        <title>Seafoam Vegas</title>
+        <description>#47bd9d</description>
+        <pubDate>Thu, 11 Jan 2018 10:00:00 -0500</pubDate>
+        <link>http://localhost:4300/47bd9d</link>
+        <guid isPermaLink="true">http://localhost:4300/47bd9d</guid>
+      </item>
+    
+      <item>
+        <title>Vegas Starship</title>
+        <description>#dfe13f</description>
+        <pubDate>Fri, 12 Jan 2018 10:00:00 -0500</pubDate>
+        <link>http://localhost:4300/dfe13f</link>
+        <guid isPermaLink="true">http://localhost:4300/dfe13f</guid>
       </item>
     
   </channel>
