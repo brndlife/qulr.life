@@ -100,7 +100,9 @@ p {
 
 .tile-container:hover {
   box-shadow: 0px 0px 10px #a8a8a8;
-  -webkit-transition: box-shadow 0.5s ease;
+  -webkit-transition: box-shadow 0.5s ease; }
+
+.tile-container {
   transition: box-shadow 0.5s ease; }
 
 .tile-container:before, .color-container:before {
