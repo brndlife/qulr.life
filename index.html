@@ -9,11 +9,21 @@ layout: default
     <div class="tile-container">
       <a href="{{ color.url }}">
         <div class="tile-content">
+          
+          {% if color.gradient %}
+          <div class="color-tile" style="background: linear-gradient( to bottom right, {{ color.number-from }}, {{ color.number-to }});"></div>
+          <div class="color-specs">
+            <span class="color-name">{{ color.name }}</span>
+            <span class="color-number">{{ color.number-from }} ⟶ {{ color.number-to }}</span>
+          </div>
+          {% else %}
           <div class="color-tile" style="background-color: {{ color.number }}"></div>
           <div class="color-specs">
             <span class="color-name">{{ color.name }}</span>
             <span class="color-number">{{ color.number }}</span>
           </div>
+          {% endif %}
+          
         </div>
       </a>
     </div>

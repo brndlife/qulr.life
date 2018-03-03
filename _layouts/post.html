@@ -6,14 +6,24 @@ layout: default
   <div class="small-12 medium-8 medium-centered column">
       <div class="small-12 medium-6 column">
         <div class="color-container">
+          
+          {% if page.gradient %}
+          <div class="color-swatch" style="background: linear-gradient( to bottom right, {{ page.number-from }}, {{ page.number-to }});"></div>
+          {% else %}
           <div class="color-swatch" style="background-color: {{ page.number }}"></div>
+          {% endif %}
         </div>
       </div>
       <div class=" color-data small-12 medium-6 column">
         <div class="date">{{ page.date | date: "%b %-d, %Y" }}</div>
         <h1 class="name">{{ page.name }}</h1>
+        
+        {% if page.gradient %}
+        <h2 class="number">{{ page.number-from }} ⟶ {{ page.number-to }}</h2>
+        {% else %}
         <h2 class="number">{{ page.number }}</h2>
-<!--        <h3>See the color in context?</h3>-->
+        {% endif %}
+<!--<h3>See the color in context?</h3>-->
       </div>
   </div>
   <div class="row">
