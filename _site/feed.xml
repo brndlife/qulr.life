@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Mar 2018 18:19:39 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Mar 2018 18:19:39 -0500</lastBuildDate>
+    <pubDate>Sun, 04 Mar 2018 11:58:35 -0500</pubDate>
+    <lastBuildDate>Sun, 04 Mar 2018 11:58:35 -0500</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -392,6 +392,22 @@
         <pubDate>Fri, 02 Mar 2018 10:00:00 -0500</pubDate>
         <link>http://localhost:4000/f79868-f15f63</link>
         <guid isPermaLink="true">http://localhost:4000/f79868-f15f63</guid>
+      </item>
+    
+      <item>
+        <title>Honeydew Mojito</title>
+        <description></description>
+        <pubDate>Sat, 03 Mar 2018 10:00:00 -0500</pubDate>
+        <link>http://localhost:4000/d5ff3c-00ebff</link>
+        <guid isPermaLink="true">http://localhost:4000/d5ff3c-00ebff</guid>
+      </item>
+    
+      <item>
+        <title>Razzmatazz</title>
+        <description>#e51052</description>
+        <pubDate>Sun, 04 Mar 2018 10:00:00 -0500</pubDate>
+        <link>http://localhost:4000/e51052</link>
+        <guid isPermaLink="true">http://localhost:4000/e51052</guid>
       </item>
     
   </channel>
